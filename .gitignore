@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.tmp_doc_pages/
+.tmp_doc_reader/
